@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ronit Play Boy - Luxury Gigolo Services in Surat</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: black;
+            color: gold;
+        }
+        header {
+            padding: 20px;
+            text-align: center;
+            background-color: black;
+            border-bottom: 2px solid gold;
+        }
+        nav {
+            margin-top: 10px;
+        }
+        nav a {
+            color: gold;
+            margin: 0 15px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .hero {
+            padding: 100px 20px;
+            text-align: center;
+            background-image: url('https://images.unsplash.com/photo-1614642333288-18c3f657668a');
+            background-size: cover;
+            background-position: center;
+            color: gold;
+            font-size: 30px;
+            font-weight: bold;
+        }
+        .services, .about, .contact, .gallery {
+            padding: 40px 20px;
+            text-align: center;
+        }
+        .gallery img {
+            width: 300px;
+            height: 400px;
+            object-fit: cover;
+            margin: 10px;
+            border: 2px solid gold;
+            border-radius: 10px;
+        }
+        .whatsapp-button {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background-color: gold;
+            color: black;
+            padding: 15px 20px;
+            border-radius: 50px;
+            text-decoration: none;
+            font-weight: bold;
+            box-shadow: 0px 0px 10px gold;
+        }
+        form input, form textarea {
+            width: 80%;
+            padding: 10px;
+            margin: 10px 0;
+            border: none;
+            border-radius: 5px;
+        }
+        form button {
+            padding: 10px 20px;
+            background-color: gold;
+            color: black;
+            border: none;
+            font-weight: bold;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+        .contact-info {
+            margin-top: 20px;
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Ronit Play Boy</h1>
+    <nav>
+        <a href="#home">Home</a>
+        <a href="#services">Services</a>
+        <a href="#about">About</a>
+        <a href="#gallery">Gallery</a>
+        <a href="#contact">Contact</a>
+    </nav>
+</header>
+
+<section id="home" class="hero">
+    Luxury Gigolo Services for Elite Ladies in Surat
+</section>
+
+<section id="services" class="services">
+    <h2>Our Services</h2>
+    <p>Private Dates | Party Companion | Travel Partner | Elite Escort Services</p>
+    <p><strong>Price Range:</strong> ₹30,000 to ₹40,000</p>
+    <p><strong>Special Premium Service:</strong> Dummy Singh Photo Premium ₹5999</p>
+</section>
+
+<section id="about" class="about">
+    <h2>About Ronit</h2>
+    <p>Ronit is a professional, discreet, and charming companion based in Surat, providing high-end services exclusively for elite ladies.</p>
+</section>
+
+<section id="gallery" class="gallery">
+    <h2>Gallery</h2>
+    <img src="https://images.unsplash.com/photo-1605296867304-46d5465a13f1" alt="Gym Look 1">
+    <img src="https://images.unsplash.com/photo-1546484959-f0327f5e1f4d" alt="Gym Look 2">
+    <img src="https://images.unsplash.com/photo-1571019613911-ec2a9f41b03e" alt="Gym Look 3">
+    <img src="https://images.unsplash.com/photo-1535713875002-d1d0cf377fde" alt="Dummy Singh Premium Photo">
+</section>
+
+<section id="contact" class="contact">
+    <h2>Contact Us</h2>
+    <form>
+        <input type="text" placeholder="Your Name" required><br>
+        <input type="text" placeholder="City" required><br>
+        <input type="tel" placeholder="Phone Number" required><br>
+        <textarea placeholder="Your Message" rows="4" required></textarea><br>
+        <button type="submit">Send</button>
+    </form>
+    <div class="contact-info">
+        <p>Call/WhatsApp: <strong>7041858584</strong></p>
+        <p>Email: <strong>brank2335@gmail.com</strong></p>
+    </div>
+</section>
+
+<a class="whatsapp-button" href="https://wa.me/917041858584" target="_blank">Chat on WhatsApp</a>
+
+</body>
+</html>
+ 
